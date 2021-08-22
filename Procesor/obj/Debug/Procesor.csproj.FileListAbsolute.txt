@@ -1,0 +1,13 @@
+C:\Users\Adrian\source\repos\WindowsFormsApp1\Procesor\bin\Debug\Procesor.exe.config
+C:\Users\Adrian\source\repos\WindowsFormsApp1\Procesor\bin\Debug\Procesor.exe
+C:\Users\Adrian\source\repos\WindowsFormsApp1\Procesor\bin\Debug\Procesor.pdb
+C:\Users\Adrian\source\repos\WindowsFormsApp1\Procesor\bin\Debug\aa-ER\Procesor.resources.dll
+C:\Users\Adrian\source\repos\WindowsFormsApp1\Procesor\obj\Debug\Procesor.csprojAssemblyReference.cache
+C:\Users\Adrian\source\repos\WindowsFormsApp1\Procesor\obj\Debug\Procesor.Form1.resources
+C:\Users\Adrian\source\repos\WindowsFormsApp1\Procesor\obj\Debug\Procesor.Properties.Resources.resources
+C:\Users\Adrian\source\repos\WindowsFormsApp1\Procesor\obj\Debug\Procesor.Form1.aa-ER.resources
+C:\Users\Adrian\source\repos\WindowsFormsApp1\Procesor\obj\Debug\Procesor.csproj.GenerateResource.cache
+C:\Users\Adrian\source\repos\WindowsFormsApp1\Procesor\obj\Debug\Procesor.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\source\repos\WindowsFormsApp1\Procesor\obj\Debug\aa-ER\Procesor.resources.dll
+C:\Users\Adrian\source\repos\WindowsFormsApp1\Procesor\obj\Debug\Procesor.exe
+C:\Users\Adrian\source\repos\WindowsFormsApp1\Procesor\obj\Debug\Procesor.pdb
